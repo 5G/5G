@@ -18,13 +18,16 @@ I care about clear design, strong interfaces, and systems that behave predictabl
 I’m not a security engineer by title, but I have a habit of stumbling into meaningful security issues during my own engineering projects.
 When that happens, I follow strict responsible-disclosure practices.
 
+**[CVE-2025-13932](https://www.cve.org/CVERecord?id=CVE-2025-13932) — Infrastructure Control System Vulnerability (2025)**  
+Discovered and reported a high-impact cloud/API access-control vulnerability affecting an energy-adjacent industrial control system.  
+Coordinated with CERT/CC and the U.S. Cybersecurity and Infrastructure Security Agency (CISA) ICS team.  
+Published as [ICSA-25-338-06](https://www.cisa.gov/news-events/ics-advisories/icsa-25-338-06).
+
 **Irish Government — gov.ie PDF Proxy Vulnerability (2024)**  
 Identified and disclosed an issue that allowed malicious PDFs to be served through a trusted government domain.  
 Resolved in coordination with CSIRT-IE.
 
-**Ongoing Security Disclosure (2025)**  
-Currently coordinating a critical cloud/API vulnerability with the US CISA Industrial Control Systems team.  
-A formal CVE advisory is in progress and will be added here once published.
+More details are available in the [security-disclosures](https://github.com/5G/security-disclosures) repository.
 
 ---
 
